@@ -1,0 +1,11 @@
+*.exe
+Debug/TLCSignIn.ilk
+*.pdb
+ipch/tlcsignin-86ed96d0/tlcsignin-b3c187d7.ipch
+*.obj
+TLCSignIn/Debug/TLCSignIn.Build.CppClean.log
+TLCSignIn/Debug/TLCSignIn.res
+TLCSignIn/Debug/TLCSignIn.log
+TLCSignIn/Debug/TLCSignIn.pch
+TLCSignIn/Debug/TLCSignIn.tlog/cl.command.1.tlog
+TLCSignIn/Debug/*
